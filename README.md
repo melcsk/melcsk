@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there/ Salut ! 👋
+
+👩🏻‍🔬 My name is Melanie Cheung See Kit and I am an academic researcher with 4 years of experience in generating and analyzing complex chemical datasets to extract insights for scientific publications, now looking to transition into a data analyst role within the pharmaceutical industry. 
+
+🧪 🔬 I received my PhD in Chemistry at the University of Michigan and my thesis focused on studying the cellular functions of an enzyme family using various biochemical and analytical methods. As a postdoctoral research fellow at Indiana University Indianapolis, I gained more hands-on experience with mass spectrometry instrumentation. There, I combined mass spectrometry and chemical labeling techniques to study protein structure and worked in a small multidisciplinary team, successfully leading research studies, which were essential in securing federal grants. 
+
+👩🏻‍💻 I initially used Python to optimize some data processing steps in my research, which sparked my deeper interest in leveraging data science. As part of the Machine Learning Software Foundations Certificate at the Data Sciences Institute, University of Toronto, I have become proficient in Python and SQL, applying various data analysis and visualization tools to effectively communicate meaningful findings to a diverse audience. ⏭️ I am passionate about leveraging data to streamline research and development and drive innovation in drug discovery.
+
 
 <!--
 **melcsk/melcsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
