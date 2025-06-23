@@ -6,6 +6,8 @@
 
 👩🏻‍💻 I initially used Python to optimize some data processing steps in my research, which sparked my deeper interest in leveraging data science. As part of the Machine Learning Software Foundations Certificate at the Data Sciences Institute, University of Toronto, I have become proficient in Python and SQL, applying various data analysis and visualization tools to effectively communicate meaningful findings to a diverse audience. ⏭️ I am passionate about leveraging data to streamline research and development and drive innovation in drug discovery.
 
+### Toolkit ⚙️
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,github,py,sqlite,vscode,apple,windows)](https://skillicons.dev)
 
 <!--
 **melcsk/melcsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
